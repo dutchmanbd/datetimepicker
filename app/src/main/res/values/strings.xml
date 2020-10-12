@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DateTimePickerDemo</string>
+    <string name="hint_select_date">Select date</string>
+    <string name="hint_select_time">Select Time</string>
+</resources>
